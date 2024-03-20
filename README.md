@@ -229,9 +229,3 @@ Dessa forma, a pasta e todas as **sub pastas** serão excluídas do roteamento, 
 
 Para definir uma **pasta privada** apenas coloque um `_` no inicio do nome:
 Ex: `_lib`
-
-#### Atenção
-
-```ad-attention
-Continuar a partir do Cap 13 - Next.js 14 Tutorial Codevolution
-```
