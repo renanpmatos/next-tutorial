@@ -62,7 +62,7 @@ npm install nome-do-pacote
 
 Logo após criar uma aplicação nova e executando pela primeira vez, podemos observar a seguinte estrutura de projeto:
 
-![[Pasted image 20240306135045.png]]![[Pasted image 20240306134219.png]]
+<img src="https://github.com/renanpmatos/regex-ninja/blob/main/public/tutorial-images/Pasted image 20240306134219.png">
 
 #### Pastas:
 
